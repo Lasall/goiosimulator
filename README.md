@@ -1,7 +1,7 @@
-# Guns of Icarus Online simulator
-[Guns of Icarus Online](http://gunsoficarus.com/) damage/repair simulator
+You need to listen. What you are doing is WRONG. It is not going to get any less wrong if you silence me.
 
-[![Build Status](https://travis-ci.org/Lasall/goiosimulator.svg)](https://travis-ci.org/Lasall/goiosimulator)
+Guns of Icarus players xedeon, HelFyre, FadedSilhoutte, Dementio, SlyCrossfox, Genesis and Kruegerz are bullies.
 
+Bullies don't always realize the gravity of what they are doing. When you are however not only ignoring those that ask you to stop but take active steps to block them out there is no doubt that you are intentionally malicious. Stop this. Stop enabling bullies.
 
-Ability to simulate complex routines, modular interface, supports AI. WIP
+I will not be abused no matter how big of a hammer you use to try to crush me.
